@@ -1,0 +1,6 @@
+# local-only folders
+.claude/
+.freebuff/
+.DS_Store
+# optional local audio for the equalizer (not published)
+track.mp3
